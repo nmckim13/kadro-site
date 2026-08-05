@@ -1,0 +1,9 @@
+{
+  "name": "kadro-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/verify-static.js",
+    "verify": "node scripts/verify-static.js"
+  }
+}
